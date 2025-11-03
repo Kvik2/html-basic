@@ -1,0 +1,16 @@
+h1 {color: rgb(139, 58, 245);}
+h2 {color: rgb(187, 58, 159);}
+
+body { font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;  
+    background: rgba(141, 141, 247, 0.637);}
+#block {background-color: #43a3e4cc;}
+
+.highlight {
+    color: rgb(168, 62, 159); 
+    font-weight: bold;}
+#block p:last-child {font-style: italic; font-size: 23px}
+
+section p {color: rgb(39, 107,112)}
+
+
