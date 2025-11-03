@@ -1,0 +1,20 @@
+
+h1 {text-transform:uppercase }
+
+body { font-family: Arial, Helvetica, sans-serif ;
+font-size: 21px;
+font-weight: bold;
+font-variant: small-caps;
+text-align: center;
+text-indent: 32px;
+font-style: italic; }
+
+p1 {text-transform: capitalize;
+text-decoration: underline;}
+
+p{text-decoration: underline;}
+
+p:hover {color:rgb(31, 131, 212)  }
+
+
+a {text-decoration: none}
